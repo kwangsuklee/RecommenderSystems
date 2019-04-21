@@ -1,4 +1,4 @@
-# RecommenderSystems
+# Recommender Systems
 Two of the most popular ways to approach recommender systems are collaborative filtering and content-based recommendations. 
 
 # collaborative filtering approach
