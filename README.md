@@ -8,13 +8,13 @@ Collaborative Filtering system matches persons with similar interests and provid
 # content based filtering approach
 Content Based Filtering system suggests similar items based on a particular item. This system recommends a product to a user based upon the category and description of the product. This system uses item metadata, such as genre, director, description, actors, etc. for movies, to make these recommendations. The general idea behind these recommender systems is that if a person liked a particular item, he or she will also like an item that is similar to it. 
 
-# Algorithms
+# algorithms
 This systems use matrix factorization-based algorithms such as SVD, PMF, SVD++, NMF, also, various similarity measures algorithms such as cosine similarity, MSD, pearson correlation…and many others.
 
-# Goal and Plan 
+# goal and plan 
 My goal is to reproduce based on open datasets and open source and to implement hybrid recommendation algorithms in combination with existing recommendation algorithms and deep learning algorithms.
 
-First, We would use the open dataset such as movie lens, TMDB, Netflix for modelling the algorithm. The recommendation algorithm implementation is reproduced by modifying it based on github open source.
+First, We would use the open dataset such as The Movie Lens, TMDB, Netflix for modelling the algorithm. The recommendation algorithm implementation is reproduced by modifying it based on github open source.
 
 Second, above all, I will focus on applying deep learning. In particular, I will focus on hybrid recommendation algorithms that apply deep learning to content-based filtering or collaborative filtering.
 
