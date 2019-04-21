@@ -14,7 +14,7 @@ This systems use matrix factorization-based algorithms such as SVD, PMF, SVD++, 
 # goal and plan 
 My goal is to reproduce based on open datasets and open source and to implement hybrid recommendation algorithms in combination with existing recommendation algorithms and deep learning algorithms.
 
-First, We would use the open dataset such as The Movie Lens, TMDB, Netflix for modelling the algorithm. The recommendation algorithm implementation is reproduced by modifying it based on github open source.
+First, I would use the open dataset such as The Movie Lens, TMDB, Netflix for modelling the algorithm. The recommendation algorithm implementation is reproduced by modifying it based on github open source.
 
 Second, above all, I will focus on applying deep learning. In particular, I will focus on hybrid recommendation algorithms that apply deep learning to content-based filtering or collaborative filtering.
 
