@@ -1,7 +1,7 @@
-# Recommender Systems
+## Recommender Systems
 Two of the most popular ways to approach recommender systems are collaborative filtering and content-based recommendations. 
 
-# collaborative filtering approach
+## collaborative filtering approach
 The user is recommended items that people with similar tastes and preferences liked in the past. In another word, this method predicts unknown ratings by using the similarities between users.
 Collaborative Filtering system matches persons with similar interests and provides recommendations based on this matching. Collaborative filters do not require item metadata like its content-based counterparts.
 
