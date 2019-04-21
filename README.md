@@ -19,3 +19,9 @@ First, I would use the open dataset such as the Movie Lens, TMDB, Netflix for mo
 Second, above all, I will focus on applying deep learning. In particular, I will focus on hybrid recommendation algorithms that apply deep learning to content-based filtering or collaborative filtering.
 
 Third, as a next step, Implementation of the algorithm would be done both from scratch as well as using libraries like Surprise library and Python Apache Spark or Apache Flink. Different implementations would be evaluated for accuracy and training efficiency. The implementation would be showcased in web using Django.
+
+Project Status
+The work is under progress and is in the phase of development.
+
+License
+The project is licensed under MIT license.
